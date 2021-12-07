@@ -1,17 +1,18 @@
 To Do list
 Basic to-do list using ReactJS.
 
-Clone And Use:
+Clone and Use:
 
-1. Download or clone the zip file.
-2. Open terminal or Gitbash from the downloaded file location.
-3. TO install dependencies. Run
-  
+  Download or clone the zip file.
+
+  Open Terminal or Gitbash from the downloaded file location.
+
+  To install dependencies.
+
     npm install
-    
-4. To open the website locally on your browser. Run
+
+  To open the website locally on your browser.
 
     npm start
-
 
 

@@ -1,18 +1,30 @@
 # To Do list
-Basic to-do list using ReactJS.
+This is built to keep track of things to be performed on a regular basis using ReactJS.
 
-# Clone and Use:
+# Clone and Use
 
-  Download or clone the zip file.
+  Open Terminal 
+  
+    git clone 'https - copied url'
 
-  Open Terminal or Gitbash from the downloaded file location.
+  Change directory  
 
-  To install dependencies.
+    cd 'directory name'
+
+  Open all files on VS code  
+
+    code .
+
+  Install dependencies
 
     npm install
 
-  To open the website locally on your browser.
+  Run the website on localhost
 
     npm start
+
+# Screenshot
+
+![image](https://user-images.githubusercontent.com/37767811/148603078-74811a6a-b738-4ae0-bc22-712f82166d1d.png)
 
 
